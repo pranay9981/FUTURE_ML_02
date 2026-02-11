@@ -4,7 +4,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C.svg)](https://pytorch.org/)
 
-## 📌 Project Overview
+## � Live Demo
+Check out the live application here: [Support Ticket Classification App](https://support-ticket-classification-and-prioritization.streamlit.app/)
+
+
+## �📌 Project Overview
 The **Support Ticket Classification System** is an intelligent automation tool designed to streamline IT support operations. By leveraging **Natural Language Processing (NLP)** and **Machine Learning**, the system automatically categorizes incoming support tickets and assigns priority levels, significantly reducing manual triage time and response latencies.
 
 The project features a robust **DistilBERT** deep learning model for classification and a sleek **Streamlit Dashboard** for real-time interaction and analytics.
@@ -126,4 +130,7 @@ The system is evaluated using Accuracy, Precision, Recall, and F1-Score.
 ---
 
 ### 👨‍💻 Author
-Developed for Support Operations Optimization.
+**Build by Pranay Bagaria**
+
+- [GitHub](https://github.com/pranay9981)
+- [LinkedIn](https://www.linkedin.com/in/pranay-bagaria/)
