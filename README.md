@@ -58,7 +58,10 @@ A professional web interface built with **Streamlit** allows users to:
 
 ---
 
+> **Important:** This project requires Python 3.8 to 3.12. Python 3.13 is currently incompatible with Streamlit due to the removal of `imghdr`. We recommend using Python 3.10.
+
 ## ⚙️ Installation & Setup
+
 
 ### 1. Clone the Repository
 ```bash
