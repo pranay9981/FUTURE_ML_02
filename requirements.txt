@@ -6,3 +6,6 @@ numpy
 nltk
 matplotlib
 seaborn
+streamlit
+plotly
+wordcloud
