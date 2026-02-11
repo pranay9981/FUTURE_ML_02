@@ -9,3 +9,5 @@ seaborn
 streamlit
 plotly
 wordcloud
+altair<5
+
