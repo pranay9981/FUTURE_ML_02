@@ -130,7 +130,7 @@ The system is evaluated using Accuracy, Precision, Recall, and F1-Score.
 ---
 
 ### 👨‍💻 Author
-**Build by Pranay Bagaria**
+**Built by Pranay Bagaria**
 
 - [GitHub](https://github.com/pranay9981)
 - [LinkedIn](https://www.linkedin.com/in/pranay-bagaria/)
